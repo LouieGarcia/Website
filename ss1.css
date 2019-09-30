@@ -1,0 +1,85 @@
+.header {
+	
+	color: #FFFFFF;
+	text-align: center;
+	padding: 70px;
+	font-size: 35px;
+	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}	
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+ font-size: 30 px;
+  overflow-x: hidden;
+  font-style: oblique;
+  opacity: 0.8;
+ 
+}
+.sidenav a {
+  color: white;
+  padding: 50px;
+  text-decoration: none;
+  display: block;
+}
+
+.sidenav a:hover {
+	background-color: #dddddd;
+	color: 000000;
+	}
+	
+.content {
+  font: 20px;
+  float: center;
+  align-items: center;
+left: 450px;
+	position: absolute;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 200px;
+font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+a {
+color: red;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+div.polaroid {
+float: right;	
+	align-items: center;
+	right: 250px;
+	top: 250 px;
+	position: absolute;
+  margin: auto;
+
+  padding: 10px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+div.container {
+	float: right;	
+	align-items: center;
+	left: 2000px;
+	bottom: 100px;
+	position: absolute;
+  margin: auto;
+color: white;
+  padding: 10px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+body {
+	background-image: url("2.jpg");
+	background-size: cover;
+}
