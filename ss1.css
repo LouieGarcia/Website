@@ -36,8 +36,7 @@
   font: 20px;
   float: center;
   align-items: center;
-left: 450px;
-bottom: 50 px;
+left: 300px;
 	position: absolute;
   color: #f1f1f1;
   width: 100%;
@@ -59,7 +58,7 @@ color: red;
 div.polaroid {
 float: right;	
 	align-items: center;
-	right: 250px;
+	right: 150px;
 	top: 250 px;
 	position: absolute;
   margin: auto;
