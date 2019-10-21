@@ -33,7 +33,7 @@
 	}
 	
 body {
-  background-color: #f1f1f1;
+  background-color: #f4f4f4;
   padding: 20px;
   font-family: Arial;
 }
@@ -59,7 +59,7 @@ h1 {
 
 .column {
   float: left;
-  width: 80%;
+  width: 75%;
 }
 
 
